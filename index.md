@@ -1,115 +1,152 @@
 # Singapore Craft Beer & IPA Bars
 
-A quick list of easy-to-drink-at bars in Singapore with good **IPAs, stouts, and craft beer**. All entries have Google Maps links you can tap.
+Easy-to-drink-at bars in Singapore with good **IPAs, stouts, and craft beer**.
+All entries have **Open in Google Maps** links.
 
 ---
 
-## Craft Beer / IPA Bars (20 picks)
+## Central / Town / CBD
 
-### 1. American Taproom (City Hall / Bugis)
-- **Vibe:** Casual, loud, proper beer bar with big screens.
-- **Beer:** 30+ rotating taps – tons of IPAs, lagers, stouts.
-- **Map:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=American+Taproom+Singapore)
+<table>
+  <tr>
+    <th>Bar</th>
+    <th>Vibe</th>
+    <th>Map</th>
+  </tr>
+  <tr>
+    <td><b>American Taproom (City Hall / Bugis)</b></td>
+    <td>Casual, loud, proper beer bar with big screens. 30+ rotating taps – lots of IPAs, lagers, stouts.</td>
+    <td><a href="https://www.google.com/maps/search/?api=1&query=American+Taproom+Singapore">Open in Google Maps</a></td>
+  </tr>
+  <tr>
+    <td><b>Lion Brewery Co Taproom (CBD)</b></td>
+    <td>Smart casual, good for dates and groups. House brews (incl. The Boss IPA) + guest taps.</td>
+    <td><a href="https://www.google.com/maps/search/?api=1&query=Lion+Brewery+Co+22+%23b1-03+Singapore+049814">Open in Google Maps</a></td>
+  </tr>
+  <tr>
+    <td><b>TAP Craft Beer Bar (Multiple outlets – town)</b></td>
+    <td>Casual, easy to walk into, mix of indoor/outdoor. 20+ taps, wide range of IPAs, pale ales, lagers.</td>
+    <td><a href="https://www.google.com/maps/search/?api=1&query=TAP+Craft+Beer+Bar+Singapore">Open in Google Maps</a></td>
+  </tr>
+  <tr>
+    <td><b>Almost Famous Craft Beer Bar (CHIJMES)</b></td>
+    <td>Minimalist white box, CHIJMES courtyard outside. 16 taps of regional + international craft.</td>
+    <td><a href="https://www.google.com/maps/search/?api=1&query=Almost+Famous+Craft+Beer+Bar+Singapore">Open in Google Maps</a></td>
+  </tr>
+  <tr>
+    <td><b>LeVel33 (Marina Bay)</b></td>
+    <td>Microbrewery with Marina Bay view, slightly dressier. In-house range including IPA.</td>
+    <td><a href="https://www.google.com/maps/search/?api=1&query=LeVel33+8+Marina+Boulevard+Singapore">Open in Google Maps</a></td>
+  </tr>
+  <tr>
+    <td><b>Gulp Riverside (Singapore River)</b></td>
+    <td>Riverside, casual outdoor seating. 100+ craft bottles/cans, rotating taps including IPAs.</td>
+    <td><a href="https://www.google.com/maps/search/?api=1&query=Gulp+Riverside+Singapore">Open in Google Maps</a></td>
+  </tr>
+  <tr>
+    <td><b>SG Taps (Boat Quay)</b></td>
+    <td>Simple taproom style, no fuss. Focus on local breweries, pale ales and IPAs.</td>
+    <td><a href="https://www.google.com/maps/search/?api=1&query=SG+Taps+Singapore">Open in Google Maps</a></td>
+  </tr>
+  <tr>
+    <td><b>Freehouse (Telok Ayer / CBD)</b></td>
+    <td>Upstairs bar, chill, good for small groups. Rotating taps heavy on IPAs and sours.</td>
+    <td><a href="https://www.google.com/maps/search/?api=1&query=Freehouse+Craft+Beer+Singapore">Open in Google Maps</a></td>
+  </tr>
+  <tr>
+    <td><b>Alchemist Beer Lab (Suntec)</b></td>
+    <td>Sleek, modern, slightly experimental. Infused beers and IPAs on tap.</td>
+    <td><a href="https://www.google.com/maps/search/?api=1&query=Alchemist+Beer+Lab+Singapore">Open in Google Maps</a></td>
+  </tr>
+  <tr>
+    <td><b>Booze Pharma-C (Bugis / Kampong Glam)</b></td>
+    <td>Quirky pharmacy theme. Craft beers with a mix of styles.</td>
+    <td><a href="https://www.google.com/maps/search/?api=1&query=Booze+Pharma-C+Singapore">Open in Google Maps</a></td>
+  </tr>
+</table>
 
-### 2. Lion Brewery Co Taproom (CBD)
-- **Vibe:** Smart casual, good for dates and groups.
-- **Beer:** House brews (incl. The Boss IPA) + guest taps.
-- **Map:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Lion+Brewery+Co+22+%23b1-03+Singapore+049814)
+---
 
-### 3. Smith Street Taps (Chinatown Complex)
-- **Vibe:** Hawker centre, plastic tables, very local and chill.
-- **Beer:** Rotating taps with local + international craft, lots of IPAs.
-- **Map:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Smith+Street+Taps+Chinatown+Complex+Singapore)
+## East / North-East
 
-### 4. TAP Craft Beer Bar (Multiple outlets)
-- **Vibe:** Casual, easy to walk into, mix of indoor/outdoor.
-- **Beer:** 20+ taps, wide range of IPAs, pale ales, lagers.
-- **Map:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=TAP+Craft+Beer+Bar+Singapore)
+<table>
+  <tr>
+    <th>Bar</th>
+    <th>Vibe</th>
+    <th>Map</th>
+  </tr>
+  <tr>
+    <td><b>Little Island Brewing Co (Changi Village)</b></td>
+    <td>Laid-back, semi-outdoor, near the sea. Self-pour system with lagers, IPAs, dark beers.</td>
+    <td><a href="https://www.google.com/maps/search/?api=1&query=Little+Island+Brewing+Co+Singapore">Open in Google Maps</a></td>
+  </tr>
+  <tr>
+    <td><b>The 1925 Brewing Co (Joo Chiat side – check latest)</b></td>
+    <td>Casual restaurant-brewery. House brews including their own IPA.</td>
+    <td><a href="https://www.google.com/maps/search/?api=1&query=The+1925+Brewing+Co+Singapore">Open in Google Maps</a></td>
+  </tr>
+</table>
 
-### 5. Orh Gao Taproom (Botanic Gardens)
-- **Vibe:** Hipster kopitiam style, relaxed.
-- **Beer:** Rotating tap list with hoppy beers, sours, stouts.
-- **Map:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Orh+Gao+Taproom+Singapore)
+---
 
-### 6. Almost Famous Craft Beer Bar (CHIJMES)
-- **Vibe:** Minimalist white box, CHIJMES courtyard just outside.
-- **Beer:** 16 taps of regional + international craft, plenty of IPAs.
-- **Map:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Almost+Famous+Craft+Beer+Bar+Singapore)
+## West / North / Neighbourhood
 
-### 7. LeVel33 (Marina Bay)
-- **Vibe:** Microbrewery with Marina Bay view, slightly dressier.
-- **Beer:** In-house range including a solid IPA.
-- **Map:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=LeVel33+8+Marina+Boulevard+Singapore)
+<table>
+  <tr>
+    <th>Bar</th>
+    <th>Vibe</th>
+    <th>Map</th>
+  </tr>
+  <tr>
+    <td><b>Orh Gao Taproom (Botanic Gardens)</b></td>
+    <td>Hipster kopitiam style, relaxed. Rotating taps with hoppy beers, sours, stouts.</td>
+    <td><a href="https://www.google.com/maps/search/?api=1&query=Orh+Gao+Taproom+Singapore">Open in Google Maps</a></td>
+  </tr>
+  <tr>
+    <td><b>Nickeldime Drafthouse (Novena)</b></td>
+    <td>Neighbourhood bar with pizza and bar food. 10–15 taps plus bottles, usually a couple of IPAs.</td>
+    <td><a href="https://www.google.com/maps/search/?api=1&query=Nickeldime+Drafthouse+Singapore">Open in Google Maps</a></td>
+  </tr>
+  <tr>
+    <td><b>Druggists (Jalan Besar)</b></td>
+    <td>Old-school shophouse, chill, beer-nerd friendly. Strong rotating craft list, IPAs and stouts.</td>
+    <td><a href="https://www.google.com/maps/search/?api=1&query=Druggists+119+Tyrwhitt+Road+Singapore">Open in Google Maps</a></td>
+  </tr>
+  <tr>
+    <td><b>Good Luck Beerhouse (Haji Lane)</b></td>
+    <td>Small bar on Haji Lane, buzzy area, easy after-dinner spot. Local and regional craft.</td>
+    <td><a href="https://www.google.com/maps/search/?api=1&query=Good+Luck+Beerhouse+Singapore">Open in Google Maps</a></td>
+  </tr>
+  <tr>
+    <td><b>Ziggy Zaggy (Bukit Timah)</b></td>
+    <td>Neighbourhood bar with American comfort food. Solid IPA list on tap and bottle.</td>
+    <td><a href="https://www.google.com/maps/search/?api=1&query=Ziggy+Zaggy+Singapore">Open in Google Maps</a></td>
+  </tr>
+  <tr>
+    <td><b>The Great Beer Experiment (Holland area – check latest)</b></td>
+    <td>Bottle shop + bar. Wide bottle/can selection, strong IPA lineup.</td>
+    <td><a href="https://www.google.com/maps/search/?api=1&query=The+Great+Beer+Experiment+Singapore">Open in Google Maps</a></td>
+  </tr>
+  <tr>
+    <td><b>Thirsty Craft Beer Shop (Multiple outlets)</b></td>
+    <td>Bottle shop; some outlets have space to sit. Huge fridge selection of IPAs, stouts, lagers.</td>
+    <td><a href="https://www.google.com/maps/search/?api=1&query=Thirsty+Craft+Beer+Shop+Singapore">Open in Google Maps</a></td>
+  </tr>
+</table>
 
-### 8. Little Island Brewing Co (Changi Village)
-- **Vibe:** Laid-back, semi-outdoor, near the sea.
-- **Beer:** Self-pour system with a mix of lagers, IPAs, dark beers.
-- **Map:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Little+Island+Brewing+Co+Singapore)
+---
 
-### 9. Nickeldime Drafthouse (Novena area)
-- **Vibe:** Neighbourhood bar with pizza and bar food.
-- **Beer:** 10–15 taps plus bottles, usually a couple of IPAs on.
-- **Map:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Nickeldime+Drafthouse+Singapore)
+## Backup / Check-Status-First Spots
 
-### 10. Druggists (Jalan Besar)
-- **Vibe:** Old-school shophouse, chill, beer-nerd friendly.
-- **Beer:** Strong rotating craft list, including IPAs and stouts.
-- **Map:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Druggists+119+Tyrwhitt+Road+Singapore)
+These have moved/changed over the years – good to have, but double-check on Google first:
 
-### 11. Good Luck Beerhouse (Haji Lane)
-- **Vibe:** Small bar on Haji Lane, buzzy area, easy after-dinner spot.
-- **Beer:** Local and regional craft on tap and bottle.
-- **Map:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Good+Luck+Beerhouse+Singapore)
-
-### 12. Gulp Riverside (Singapore River)
-- **Vibe:** Riverside, casual outdoor seating.
-- **Beer:** 100+ craft bottles/cans, rotating taps including IPAs.
-- **Map:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Gulp+Riverside+Singapore)
-
-### 13. SG Taps (Boat Quay)
-- **Vibe:** Simple taproom style, no fuss.
-- **Beer:** Focus on local breweries, pale ales and IPAs.
-- **Map:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=SG+Taps+Singapore)
-
-### 14. The 1925 Brewing Co (Jalan Besar / Joo Chiat – check latest outlet)
-- **Vibe:** Casual restaurant-brewery.
-- **Beer:** House brews including their own IPA.
-- **Map:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=The+1925+Brewing+Co+Singapore)
-
-### 15. Freehouse (CBD / Telok Ayer)
-- **Vibe:** Upstairs bar, chill, good for small groups.
-- **Beer:** Rotating taps heavy on IPAs and sours.
-- **Map:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Freehouse+Craft+Beer+Singapore)
-
-### 16. The Great Beer Experiment (Holland Village area / verify current location)
-- **Vibe:** Bottle shop + bar.
-- **Beer:** Wide bottle/can selection, strong IPA lineup.
-- **Map:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=The+Great+Beer+Experiment+Singapore)
-
-### 17. Almost Famous x Get Some (if listed as a combined concept)
-- **Vibe:** Craft beer focus, minimalist.
-- **Beer:** Regional collabs and rotating taps.
-- **Map:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Get+Some+Craft+Beer+Singapore)
-
-### 18. Alchemist Beer Lab (Suntec area)
-- **Vibe:** Sleek, modern, slightly experimental.
-- **Beer:** Infused beers and IPAs on tap.
-- **Map:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Alchemist+Beer+Lab+Singapore)
-
-### 19. Booze Pharma-C (Bugis / Kampong Glam – check latest status)
-- **Vibe:** Quirky pharmacy theme.
-- **Beer:** Craft beers with mix of styles.
-- **Map:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Booze+Pharma-C+Singapore)
-
-### 20. Thirsty Craft Beer Shop (Multiple outlets – good backup)
-- **Vibe:** Bottle shop; some outlets have space to sit.
-- **Beer:** Huge fridge selection of IPAs, stouts, lagers.
-- **Map:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Thirsty+Craft+Beer+Shop+Singapore)
+- **Almost Famous x Get Some** – collab/variant of the craft beer concept.
+- **Any new Brewlander / Pink Blossoms / Sunbird pop-up taps** – often show up at TAP / American Taproom / SG Taps.
 
 ---
 
 ## How to Use This
 
-- Pick where dinner is (CBD, Bugis, Marina Bay, East, West, etc.).
-- Choose 1–2 bars **nearby** from this list as primary + backup.
-- Tap the **Open in Google Maps** links to launch navigation directly.
+- Decide your **dinner area** (Central, East, West/Neighbourhood).
+- Scroll to that section only.
+- Tap the **Open in Google Maps** link for 1–2 places that fit the vibe you want.
