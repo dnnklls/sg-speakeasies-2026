@@ -4,7 +4,7 @@ A quick list of good speakeasy-style bars in Singapore that work well after dinn
 
 ---
 
-## Shortlist
+## Shortlist – Speakeasies (cocktail-focused)
 
 ### 28 HongKong Street (Boat Quay / CBD)
 - **Vibe:** Classic, dark, unmarked-door speakeasy. Award-winning cocktails.
@@ -58,8 +58,53 @@ A quick list of good speakeasy-style bars in Singapore that work well after dinn
 
 ---
 
+## Craft Beer / IPA Bars (easier to drink at)
+
+### American Taproom (City Hall / Bugis side)
+- **Vibe:** Casual, noisy, very beer-focused. Big screens, proper bar energy.
+- **Beer:** 30+ rotating taps with lots of IPAs, lagers, stouts.
+- **Map:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=American+Taproom+Singapore)
+
+### Lion Brewery Co Taproom (CBD)
+- **Vibe:** Smart casual, works for dates and groups.
+- **Beer:** Their own beers on tap (including The Boss IPA) plus guests.
+- **Map:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Lion+Brewery+Co+22+%23b1-03+Singapore+049814)
+
+### Smith Street Taps (Chinatown Complex)
+- **Vibe:** Hawker centre chaos but with serious beer; very local and chill.
+- **Beer:** Rotating taps with local and international craft (often IPAs).
+- **Map:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Smith+Street+Taps+Chinatown+Complex+Singapore)
+
+### Ziggy Zaggy (Bukit Timah)
+- **Vibe:** Neighborhood bar, American comfort food.
+- **Beer:** Strong IPA list on tap and bottle.
+- **Map:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Ziggy+Zaggy+Singapore)
+
+### TAP Craft Beer Bar (multiple outlets)
+- **Vibe:** Casual standing/sitting bar.
+- **Beer:** 20+ taps, lots of IPAs and easy lagers.
+- **Map:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=TAP+Craft+Beer+Bar+Singapore)
+
+### Orh Gao Taproom (Botanic Gardens)
+- **Vibe:** Chill, slightly hipster kopitiam energy.
+- **Beer:** Rotating taps, often hoppy stuff + sours.
+- **Map:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Orh+Gao+Taproom+Singapore)
+
+### Almost Famous Craft Beer Bar (CHIJMES)
+- **Vibe:** Minimalist, indoor, CHIJMES courtyard outside.
+- **Beer:** 16 taps of regional + international craft.
+- **Map:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Almost+Famous+Craft+Beer+Bar+Singapore)
+
+### LeVel33 (Marina Bay)
+- **Vibe:** Microbrewery in the sky; view of Marina Bay.
+- **Beer:** Their own IPA plus other house brews.
+- **Map:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=LeVel33+8+Marina+Boulevard+Singapore)
+
+---
+
 ## How to Use This
 
-- Pick dinner first (area: Orchard, CBD, Tanjong Pagar, East, etc.).
-- Then choose 1–2 bars nearby from this list as primary + backup.
+- Pick dinner first (area: Orchard, CBD, Tanjong Pagar, East, Marina Bay, etc.).
+- If she’s more into cocktails and vibes → choose from **Speakeasies**.
+- If she prefers beer / stouts / IPAs or wants something easier → choose from **Craft Beer / IPA Bars**.
 - Tap the **Open in Google Maps** links to launch navigation directly.
